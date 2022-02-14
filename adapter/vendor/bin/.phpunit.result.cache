@@ -1,0 +1,1 @@
+{"version":1,"defects":{"DesignPatterns\\Adapter\\Tests\\AdapterTest::testCanTurnPageOnBook":4,"DesignPatterns\\Adapter\\Tests\\AdapterTest::testCanTurnPageOnKindleLikeInANormalBook":4},"times":{"DesignPatterns\\Adapter\\Tests\\AdapterTest::testCanTurnPageOnBook":0.009,"DesignPatterns\\Adapter\\Tests\\AdapterTest::testCanTurnPageOnKindleLikeInANormalBook":0}}
